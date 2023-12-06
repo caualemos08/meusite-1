@@ -3,44 +3,8 @@ body {
     background-color:black;
     font-family: Arial, Helvetica, sans-serif;
     
-    }body {
-        color: white;
-        background-color:black;
-        font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        
-        ul{
-        
-        display: flex;
-    …    text-align: justify;
-        padding: 25px;
-        }
-    body {body {
-        color: white;
-        background-color:black;
-        font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        
-        ul{
-        
-        display: flex;
-    …    text-align: justify;
-        padding: 25px;
-        }
-        color: white;
-        background-color:black;
-        font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        
-        ul{
-        
-        display: flex;
-    …    text-align: justify;
-        padding: 25px;
-        }
+    }
+    
     ul{
     
     display: flex;
@@ -55,24 +19,13 @@ body {
     
     color: white;
     text-decoration: none;
-    body {
-        color: white;
-        background-color:black;
-        font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        
-        ul{
-        
-        display: flex;
-    …    text-align: justify;
-        padding: 25px;
-        }
+    
     }
     
     img{
     
     width: 300px;
+    height: 150px;
     height: 150px;
     border-radius: 20%;
     border: 5px solid green;
@@ -89,19 +42,7 @@ body {
     text-align: center;
     
     }
-    body {
-        color: white;
-        background-color:black;
-        font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        
-        ul{
-        
-        display: flex;
-    …    text-align: justify;
-        padding: 25px;
-        }
+    
     h2{
     color: white;
     text-align: center;
@@ -111,3 +52,20 @@ body {
     text-align: justify;
     padding: 25px;
     }
+    
+    </div>
+    <h1> MC MODAS </h1>
+    <h2>VARIEDADES DE ROUPAS PARA TODO PAÍS</h2>
+    </header>
+
+<a href="index.html">Sobre a loja</a>
+</li>
+
+<li>
+…</section>
+<section>
+<h3> Contatos </h3>
+<p>nossas redes sociais sao: instagram: @MC modas, Facebook: MC Modas, Twiter: Mc modas, Tiktok: @MC_MODAS.</p>
+</section>
+</main>
+   
